@@ -10,7 +10,7 @@ Repositorio Aquitectura de Computadoras 5BS
 
 ### Examen [?]%
 
-### Participación [?]%
+
 
 ### Asistencia [?]%
 
